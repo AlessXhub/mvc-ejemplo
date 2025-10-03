@@ -12,7 +12,7 @@
 
         public int IdRol { get; set; }
 
-       
+        public string RolNombre { get; set; }
 
     }
 }
